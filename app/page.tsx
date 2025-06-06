@@ -18,7 +18,7 @@ export default function Home() {
           <h1 className="text-4xl md:text-6xl font-bold text-gray-800 shadow-sm">Sam Ebaugh.</h1>
           <h1 className="text-4xl md:text-6xl font-bold text-gray-800 shadow-sm">I like computers.</h1>
         </div>
-        <hr className="w-1/3 md:w-1/4 border-2 border-purple-600 my-8 animate-[fadeInAnimation_3s_ease]" />
+        <hr className="w-1/3 md:w-1/4 border-2 border-purple-600 my-8 animate-[fadeInAnimation_3s_ease_forwards]" />
         <div>
           <h1 className="text-4xl md:text-6xl font-bold text-gray-800 shadow-sm">Check out my projects</h1>
           <h1 className="text-4xl md:text-6xl font-bold text-gray-800 shadow-sm">and other cool stuff!</h1>
