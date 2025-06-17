@@ -14,3 +14,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   )
 }
 
+export const metadata = {
+  title: 'samebaugh.com',
+  icons: {
+    icon: '/favicon.png',
+  },
+};
