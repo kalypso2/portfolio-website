@@ -9,10 +9,16 @@ export default function AboutSection() {
                     👋 Hello! I’m <span className="text-purple-600 font-bold">Sam Ebaugh</span>, a Computer Science major at <span className="text-purple-600 font-bold">UCF</span>.
                 </p>
                 <p className="mb-4">
-                    🏢 Experienced in <span className="text-purple-600 font-bold"></span>fullstack development, <span className="text-purple-600 font-bold"></span>cybersecurity, and <span className="text-purple-600 font-bold"></span>emerging tech.
+                    Experienced in <span className="text-purple-600 font-bold">fullstack development</span>, <span className="text-purple-600 font-bold">cybersecurity</span>, and <span className="text-purple-600 font-bold">emerging AI technologies</span>.
                 </p>
                 <p className="mb-4">
-                    💥 Exploring <span className="text-purple-600">compilers</span>, <span className="text-purple-600">securing various operating systems</span>, and <span className="text-purple-600">AI</span>.
+                    From building and deploying production-ready web and mobile applications (React, Next.js, Node.js, Flutter) to designing scalable APIs and managing databases (MongoDB, MySQL), I’ve led development teams, contributed clean and maintainable code, and tackled difficult problems through structured project planning.
+                </p>
+                <p className="mb-4">
+                    Notable projects include <span className="text-purple-600 font-bold">ScholarKnights</span>, a full-stack group study platform for UCF students, and <span className="text-purple-600 font-bold">Contact Cloud</span>, a contact manager built on the LAMP stack.
+                </p>
+                <p className="mb-4">
+                    I’m currently seeking opportunities in <span className="text-purple-600 font-bold">software engineering</span>,<span className="text-purple-600 font-bold"> AI development</span>, or <span className="text-purple-600 font-bold">data-driven</span> roles where I can contribute, grow, and continue building technology.
                 </p>
                 <p>
                     Reach out on the <a href="#contact" className="underline text-purple-600">Contact</a> section!
