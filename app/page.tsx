@@ -13,6 +13,11 @@ export default function Home() {
         id="landing"
         className="relative flex flex-col justify-center items-center text-center min-h-screen bg-gradient-to-br from-[#b8c6db] to-[#f5f7fa]"
       >
+        <div className="mb-2 text-sm md:text-base text-gray-500">
+          🥇 First Place Overall – SharkByte Hackathon 2025 (SharkVision)
+          <br />
+          <span className="text-xs md:text-sm text-gray-400 italic">Hosted by Miami Dade College</span>
+        </div>
         <div className="mb-4">
           <span className="text-purple-600">Hi, my name is</span>
           <h1 className="text-4xl md:text-6xl font-bold text-gray-800 shadow-sm">Sam Ebaugh.</h1>
